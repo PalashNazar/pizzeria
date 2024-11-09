@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Піцерія Pizza House</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="e">
+            <img src="https://pizzahouse.ua/img/logo.svg" alt="Логотип Pizza House">
+        </div>
+        <h1>Піцерія Pizza House</h1>
+        
+    </header>
+
+    <nav>
+        <a class="button1" href="#">Акції</a>
+        <a class="button2" href="#">Спеціальні пропозиції</a>
+        <a class="button3" href="#">Новинки</a>
+        <a class="button4" href="#">Доставка</a>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Новинки:</h2>
+        </section>
+
+        <section>
+            <div class="products">
+                <div class="product">
+                    <p>Піца Кватро</p>
+                    <img src="https://vesuvio.ua/wp-content/uploads/2020/02/%D0%9F%D1%96%D1%86%D0%B0-%D0%9A%D0%B2%D0%B0%D1%82%D1%80%D0%BE-%D0%9C%D0%B5%D0%BD%D1%8E-%D0%9A%D0%BE%D0%BF%D1%96%D1%8E%D0%B2%D0%B0%D1%82%D0%B8.jpg" 
+                         alt="Піца Кватро">
+                    <p>Ціна: 449 грн</p>
+                </div>
+            </div>
+        </section>
+            <h2>Меню:</h2>
+            <div class="container">
+    <img class="salo" src="https://avocado.te.ua/image/cache/catalog/pizza/pizza/saljami_uuu-min-634x420.png" alt="Піца Салямі">
+<div class="text">
+        <span class="title">Піца Салямі</span>
+        <span class="price">30см - 250грн 
+        40см - 350грн</span>
+    </div>
+            </div>
+            <nav>
+        <a class="button1" href="#">У кошик</a>
+            </nav>
+
+            <div class="container">
+    <img src="https://www.lavashik.com.ua/wp-content/uploads/2023/07/havayska.png">
+<div class="text">
+        <span class="title">Піца Гавайська</span>
+        <span class="price">30см - 260грн
+40см - 385грн</span>
+    </div>
+            </div>
+            <nav>
+        <a class="button1" href="#">У кошик</a>
+            </nav>
+
+
+            <div class="container">
+    <img src="https://papafood.com.ua/uploads/products/qCiyYKaLTZtvD7MaI9uKaUxEVisz87ZR7XRg2knB.png">
+<div class="text">
+        <span class="title">Піца Чотири сири</span>
+        <span class="price">30см - 320грн
+40см - 450грн</span>
+    </div>
+            </div>
+            <nav>
+        <a class="button1" href="#">У кошик</a>
+            </nav>
+
+
+            <div class="container">
+    <img src="https://aleksandrsann.ks.ua/image/cache/catalog/pizza/updated/peperoni-370x370h.png">
+<div class="text">
+        <span class="title">Піца Пепероні</span>
+        <span class="price">30см - 255грн
+40см - 395грн</span>
+    </div>
+            </div>
+            <nav>
+        <a class="button1" href="#">У кошик</a>
+            </nav>
+
+
+            <div class="container">
+    <img src="https://goodchef.com.ua/image/cache/catalog/products/pizza/dscf5506-700x700.png">
+<div class="text">
+        <span class="title">Піца Американо</span>
+        <span class="price">30см - 290грн
+40см - 445грн
+</span>
+    </div>
+            </div>
+            <nav>
+        <a class="button1" href="#">У кошик</a>
+            </nav>
+
+
+            <div class="container">
+    <img src="https://img.postershop.me/12341/Products/3314024_1670787706.735_original.png">
+<div class="text">
+        <span class="title">Безалкогольні Напої</span>
+        <span class="price">Кока Кола, Спрайт, Фанта
+            0,5л - 35грн
+1л - 50грн
+        </span>
+    </div>
+            </div>
+            <nav>
+        <a class="button1" href="#">У кошик</a>
+            </nav>
+            <footer>
+                <h2>Контактна Інформація:</h2>
+                <div class="contacts">
+                    <div class="phone-container"><p class="footer-text">
+    <img src="https://cdn.pixabay.com/photo/2016/11/17/16/05/icons-1831922_1280.png" alt="Phone Icon" class="phone-icon">
+    <span>:0800-6010-60</span>
+    </p>
+                    </div>
+            </div>
+
+            <div class="contacts">
+                    <div class="phone-container"><p class="footer-text">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" alt="Phone Icon" class="phone-icon">
+    <span>:pizzahouse.ua</span>
+    </p>
+                    </div>
+            </div>
+
+            <div class="contacts">
+                    <div class="phone-container"><p class="footer-text">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/480px-Facebook_f_logo_%282019%29.svg.png" alt="Phone Icon" class="phone-icon">
+    <span>:Pizza House</span>
+    </p>
+                    </div>
+            </div>
+            </footer>
+</main>
+</body>
+</html>
