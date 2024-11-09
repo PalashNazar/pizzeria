@@ -1,0 +1,167 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: yellow;
+}
+
+header {
+    background-color: #E008E4;
+    color: yellow;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    height: 100px;
+    
+}
+
+header img {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 10px;
+    bottom: 25px;
+}
+
+/* Навігація */
+nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+nav a {
+    background-color: #E008E4;
+    border: 1px solid #E008E4;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #d006cc;
+}
+
+/* Новинки */
+h2 {
+    color: #E008E4;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Продукти */
+.products {
+    display: flex;
+    justify-content: center;
+    background-color: #E008E4;
+    padding: 20px;
+    color: yellow;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.product {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.product img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+.container {
+    display: flex;          
+    align-items: center;   
+    background-color: yellow; 
+    padding: 20px;          
+}
+
+.salo {
+    max-height: 300px;
+    max-width: 300px;       
+    margin-right: 50px; 
+    margin-top: 100px;    
+}
+.text {
+    display: flex;
+    flex-direction: column;    
+}
+
+.title {
+    font-size: 24px;              
+    color: black;                 
+}
+
+.price {
+    font-size: 18px;             
+    color: black;                 
+    margin-top: 5px;              
+}
+
+
+.gavayska {
+    display: flex;          
+    align-items: center;    
+    background-color: yellow; 
+    padding: 20px;          
+}
+
+img {
+    max-width: 200px;       
+    margin-right: 50px; 
+    margin-top: 30px;   
+}
+.text {
+    display: flex;
+    flex-direction: column;      
+}
+
+.title {
+    font-size: 24px;              
+    color: black;                 
+}
+
+.price {
+    font-size: 18px;             
+    color: black;                  
+    margin-top: 5px;              
+}
+.phone-container {
+    display: flex;
+    align-items: center;
+}
+
+.phone-icon {
+    width: 40px; 
+    height: auto;
+    margin-right: 10px; 
+}
+.footer-text{
+    font-size: 30px;
+}
+.phone-container {
+    display: flex;
+    align-items: center;
+}
+
+.phone-icon {
+    width: 40px; 
+    height: auto;
+    margin-right: 10px; 
+}
+.footer-text{
+    font-size: 30px;
+}
